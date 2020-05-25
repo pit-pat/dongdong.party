@@ -1,0 +1,7 @@
+{
+  "Import Sass Main": {
+    "scope": "sass,scss",
+    "prefix": "pkg",
+    "body": ["@use '@/styles/packages/main' as *;"]
+  }
+}
